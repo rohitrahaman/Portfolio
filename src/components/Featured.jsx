@@ -72,11 +72,11 @@ export default function Featured() {
       </section>
       <section>
         <div className="">
-          <div className="justify-center items-center flex flex-col lg:flex-row gap-4 mt-8 ml-5">
+          <div className="justify-center items-center flex flex-col lg:flex-row gap-4 mt-8">
             <div className="lg:w-1/2">
               <img src="./img/p1.png" alt="" />
             </div>
-            <div className="lg:w-1/2">
+            <div className="lg:w-1/2 ml-5">
               <div className="mr-5">
                 <div className="border border-b-black">
                   <h1 className="text-2xl">Project Name</h1>
