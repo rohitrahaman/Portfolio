@@ -32,7 +32,7 @@ function Experience() {
             </div>
           </div>
 
-          <div className="lg:w-3/4 lg:border lg:border-l-black lg:px-16">
+          <div className="lg:w-3/4 lg:border lg:border-l-black lg:px-16 py-10">
             <li>
               Lorem ipsum dolor sit amet, consectetur adipisicing elit.
               Dignissimos, unde labore. Odio quam corporis voluptatibus nisi
