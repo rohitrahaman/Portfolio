@@ -12,7 +12,7 @@ export default function Contact() {
         <div className="border border-b-black w-1/3"></div>
       </div>
       <div>
-        <div className=" flex flex-col items-center justify-center text-center  ">
+        <div className=" flex flex-col  items-center justify-center text-center  ">
           <div className="text-xl">
             <h1>
               I am currently seeking employment,and I would appreciate it if you
